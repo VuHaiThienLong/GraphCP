@@ -1,0 +1,7 @@
+Wikivitals (en)
+A dataset from the netset collection
+https://netset.telecom-paris.fr
+
+Vital articles of Wikipedia in English (level 4) with links between them and words used in summaries (tokenization by Spacy, model "en_core_web_lg").
+
+https://en.wikipedia.org/wiki/Wikipedia:Vital_articles/Level/4
