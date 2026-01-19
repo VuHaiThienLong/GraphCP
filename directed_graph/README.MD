@@ -1,8 +1,7 @@
-Log changes:
+## Changelog
 
+### 2026-01-18 to 2026-01-19
 
-
-- 18-19 /1 
-+ Fix data leakage (embedding on full dataset)
-+ Update conformal quantile from 1-alpha to standard conformal quantile ( Mondrian (label-conditional) split conformal quantiles)
-+ Transitioning from Random edge split to OGB transductive splitting.
+* Fixed data leakage issue by preventing embeddings from being computed on the full dataset.
+* Updated conformal quantile from nonstandard `1 - alpha` to the correct split conformal quantile using Mondrian (label-conditional) calibration.
+* Transitioned from random edge splitting to OGB-style transductive edge splitting for more realistic evaluation.
