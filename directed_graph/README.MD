@@ -4,4 +4,4 @@
 
 * Fixed data leakage issue by preventing embeddings from being computed on the full dataset.
 * Updated conformal quantile from nonstandard `1 - alpha` to the correct split conformal quantile using Mondrian (label-conditional) calibration.
-* Transitioned from random edge splitting to OGB-style transductive edge splitting for more realistic evaluation.
+* Transitioned from random edge splitting to OGB transductive edge splitting for more realistic evaluation.
