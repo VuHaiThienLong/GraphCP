@@ -1,7 +1,8 @@
 {
   "permissions": {
     "allow": [
-      "Bash(dir /b \"c:\\\\Users\\\\longv\\\\Desktop\\\\GraphCP\")"
+      "Bash(dir /b \"c:\\\\Users\\\\longv\\\\Desktop\\\\GraphCP\")",
+      "Bash(python:*)"
     ]
   }
 }
