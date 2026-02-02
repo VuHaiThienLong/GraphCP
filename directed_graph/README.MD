@@ -8,4 +8,4 @@
 
 ### 2026-01-25 to 2026-01-26
 
-* Implement on WikiVitals, WikiSchools, WikiHumans, WikiLinks datasets. The combined notebook is all_datasets_directed.ipynb files.
+* Implement on WikiVitals, WikiSchools, WikiHumans, WikiVitals (fr), MathWorld datasets. The combined notebook is all_datasets_directed.ipynb.
